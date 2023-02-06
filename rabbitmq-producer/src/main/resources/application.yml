@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    virtual-host: wy
+    host: 172.16.11.179
+    port: 32002
+    username: guest
+    password: guest
